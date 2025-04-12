@@ -1,0 +1,20 @@
+input {
+    width: 50px;
+    font-family: pixelFont, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin: 0 0px;
+    padding: 0px;
+    background-color: transparent;
+}
+
+.timerInput {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: transparent;
+    font-size: 30px;
+    color: white;
+}
